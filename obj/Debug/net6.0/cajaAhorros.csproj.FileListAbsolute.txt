@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\bin\Debug\net6.0\cajaAhorros.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\bin\Debug\net6.0\cajaAhorros.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\bin\Debug\net6.0\cajaAhorros.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\bin\Debug\net6.0\cajaAhorros.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\bin\Debug\net6.0\cajaAhorros.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\refint\cajaAhorros.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\cajaAhorros.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\cajaAhorros\obj\Debug\net6.0\ref\cajaAhorros.dll
